@@ -10,10 +10,8 @@ import org.springframework.context.annotation.PropertySource;
 @SpringBootApplication
 public class FicoreApplication {
 	
-	
 	public static void main(String[] args) {
 		SpringApplication.run(FicoreApplication.class, args);
-		System.out.println("Hi SUMIT RAM");
 	}
 
 }
